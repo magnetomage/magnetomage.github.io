@@ -1,2 +1,5 @@
+DirectoryIndex index.html index.php Index.php Index.html index.htm Index.html
 
-DirectoryIndex index.html index.php
+<IfModule headers_module>
+  header set X-Clacks-Overhead "GNU Terry Pratchett"
+</IfModule>
